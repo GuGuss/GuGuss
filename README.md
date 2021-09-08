@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1 align="center">Welcome to my GitHub profile 👋</h1>
 
-<!--
-**GuGuss/GuGuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/1927538/132520251-dd89d75a-f6fd-43d8-a723-835300a2cd96.png" width="50"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://twitter.com/GuGussOnFire"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/augustindelaporte/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://vinzvinci.github.io/"><img alt="GuGuss resume" title="Resume" src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
+<a href="https://www.drupal.org/u/guguss"><img alt="GuGuss profile on Drupal.org" src="https://img.shields.io/badge/Drupal-0678be?style=for-the-badge&logo=drupal&logoColor=white"></a>
+</p>
